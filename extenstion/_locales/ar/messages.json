@@ -1,0 +1,10 @@
+{
+  "app_metadata_description": {
+    "description": "Extension description",
+    "message": "أتمتة مهام الويب بالذكاء الاصطناعي! May هو امتداد مفتوح المصدر لكروم يتيح لك استخراج البيانات وملء النماذج والمزيد."
+  },
+  "app_metadata_name": {
+    "description": "Extension name",
+    "message": "May This Known As AI Powered"
+  }
+}
