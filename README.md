@@ -20,4 +20,4 @@ It allows users to interact with websites, extract data, and automate repetitive
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/may.git
+   git clone  https://github.com/loayabdalslam/May-chrome.git
